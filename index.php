@@ -1,6 +1,6 @@
 <?php 
  require_once 'classe-pessoa.php';
- //$p = new Pessoa("4006896_luizbarueri","localhost","root","");
+ $p = new Pessoa("4006896_luizbarueri","localhost","root","");
 ?>
 
 <!DOCTYPE html>
